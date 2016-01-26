@@ -1,8 +1,5 @@
-// you can use includes, for example:
-// #include <algorithm>
 
-// you can write to stdout for debugging purposes, e.g.
-// cout << "this is a debug message" << endl;
+// Link : https://codility.com/demo/take-sample-test/binary_gap/
 
 
 #include <algorithm>
