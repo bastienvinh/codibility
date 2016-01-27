@@ -1,6 +1,0 @@
-language: cpp
-compiler: clang
-os:
-  - linux
-  - mac
-sudo: false
